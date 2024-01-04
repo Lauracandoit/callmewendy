@@ -55,7 +55,7 @@ const about = () => {
              
               <p className=' text-dark font-medium dark:text-light'> What drives me is the challenge and excitement of bringing client visions to life in the digital realm. Whether Im deep in the code of a new website, refining a mobile app interface, or leading my team towards achieving our customer service goals, I approach each task with dedication and a commitment to excellence. </p>
             
-              <p className=' text-dark font-medium dark:text-light mt-5 mb-5 '> I believe in continuous learning and innovation. This mindset allows me to stay ahead of industry trends and integrate the latest best practices into my work. I'm always on the lookout for opportunities to collaborate with like-minded professionals and organizations. </p>
+              <p className=' text-dark font-medium dark:text-light mt-5 mb-5 '> I believe in continuous learning and innovation. This mindset allows me to stay ahead of industry trends and integrate the latest best practices into my work. Im always on the lookout for opportunities to collaborate with like-minded professionals and organizations. </p>
             
               <p className=' text-dark font-medium dark:text-light'> If youre seeking someone who brings a blend of technical prowess, user-centric design, and a proactive leadership approach, Id love to discuss how I can contribute to your next project </p>            
             </div>

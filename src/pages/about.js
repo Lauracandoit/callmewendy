@@ -53,9 +53,9 @@ const about = () => {
               <p className=' text-dark font-medium dark:text-light mt-5 mb-5'>
               Beyond my technical expertise, I also serve as the Customer Support Team Lead at a leading streaming platform. This dual role has provided me with invaluable insights into user behavior, needs, and expectations. Every day, I engage with customers, collaborate with my colleagues, and strategize with my team to ensure we meet and exceed our performance metrics.</p>
              
-              <p className=' text-dark font-medium dark:text-light'> What drives me is the challenge and excitement of bringing clients visions to life in the digital realm. Whether Im deep in the code of a new website, refining a mobile app interface, or leading my team towards achieving our customer service goals, I approach each task with dedication and a commitment to excellence. </p>
+              <p className=' text-dark font-medium dark:text-light'> What drives me is the challenge and excitement of bringing clients&apos; visions to life in the digital realm. Whether I&apos;m deep in the code of a new website, refining a mobile app interface, or leading my team towards achieving our customer service goals, I approach each task with dedication and a commitment to excellence. </p>
             
-              <p className=' text-dark font-medium dark:text-light mt-5 mb-5 '> I believe in continuous learning and innovation. This mindset allows me to stay ahead of industry trends and integrate the latest best practices into my work. I'm always on the lookout for opportunities to collaborate with like-minded professionals and organizations. </p>
+              <p className=' text-dark font-medium dark:text-light mt-5 mb-5 '> I believe in continuous learning and innovation. This mindset allows me to stay ahead of industry trends and integrate the latest best practices into my work. Im always on the lookout for opportunities to collaborate with like-minded professionals and organizations. </p>
             
               <p className=' text-dark font-medium dark:text-light'> If youre seeking someone who brings a blend of technical prowess, user-centric design, and a proactive leadership approach, Id love to discuss how I can contribute to your next project </p>            
             </div>

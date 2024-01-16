@@ -9,7 +9,7 @@ import Link from 'next/link'
 
 
 
-const footer = () => {
+const Footer = () => {
   const {
     register,
     handleSubmit,
@@ -101,4 +101,4 @@ const footer = () => {
   )
 }
 
-export default footer
+export default Footer

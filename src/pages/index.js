@@ -32,8 +32,7 @@ export default function Home() {
                 <div className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 mb-3'> Hi!  I am
                 </div>
                 </h2>
-
-                <h2>
+                <h2 className ="#">
                  <TypeAnimation
                     sequence={[
                       // Same substring at the start will only be typed out once, initially

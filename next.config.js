@@ -1,6 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-}
 
-module.exports = nextConfig
+const { withContentlayer } = require("next-contentlayer");
+const nextConfig = {
+  basePath: "/callmewendy",
+  images: {
+    unoptimized: true,
+  },
+};
+
+module.exports = withContentlayer({ ...nextConfig });

@@ -7,8 +7,6 @@ import Layout from './Layout'
 import Link from 'next/link'
 
 
-
-
 const Footer = () => {
   const {
     register,

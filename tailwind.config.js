@@ -14,9 +14,17 @@ module.exports = {
         primary: "#B63E96", // 240,86,199
         primaryDark: "#58E6D9", // 80,230,217
         accentDark: "#ffdb4d",
+        accent: "#7B00D3", 
+        gray: "#747474",
+
+
         // ...colors,
         // secondary: colors.green,
         // third: colors.pink,
+      },
+      fontFamily: {
+        mr: ["var(--font-mr)"],
+        in: ["var(--font-in)"],
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',

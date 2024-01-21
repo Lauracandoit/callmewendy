@@ -3,7 +3,7 @@ import React, {useRef} from 'react'
 import { motion, useScroll } from "framer-motion"
 import LiIcon from './LiIcon';
 import Image from 'next/image';
-import msq from '../../public/images/msq.png'
+import msq from '@/public/images/msq.png'
 
 
 const Details = ({position, company, companyLink, time, address, work, img }) => {
@@ -58,8 +58,8 @@ const Experience = () => {
 
             <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 '>
                 < Details 
-               position= "Customer Support Team Lead" company="Modsquad"
-               companyLink="https://modsquad.com/"
+               position= "Customer Support Team Lead" company="MQ"
+               companyLink="https://www.msb.com.vn/"
                 time = "2021-Present" address="Sacramento, CA"
                 work = " As a team lead, I responsed for support our team member working on their tasks, as well as mine. I do QA, answer request support from team member and response for the engagement of the team, attendence of team members and also  Support for my manager to annouce the new update" 
                 /> 
@@ -68,7 +68,7 @@ const Experience = () => {
                position= "Customer Relationship Specialist" company="MSB"
                companyLink="https://www.msb.com.vn/"
                 time = "2020-2021" address="Mountain View, CA"
-                work = " Selling multiple bank service. Installing multiple Social Media channels to grow the reach and service of our branch. Providing customer support via phone, emails and sms. Make sure branch reaches the highest satisfaction from customer " />
+                work = "Selling multiple bank service. Installing multiple Social Media channels to grow the reach and service of our branch. Providing customer support via phone, emails and sms. Make sure branch reaches the highest satisfaction from customer " />
 
                 < Details 
                position= "Customer Relationship Specialist" company="Manulife Vietnam"

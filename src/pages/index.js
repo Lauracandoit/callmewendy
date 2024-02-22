@@ -28,10 +28,10 @@ export default function Home() {
               />
             </div>
             <div className="w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center lg:pt-3 ">
-                <h2 className="xl:!text-5xl lg:!text-6xl md:!text-5xl sm:!text-1xl !text-6xl font-extrabold ">
-                  <div className="mb-3 sm:text-2xl"> Hi! I am</div>
-                </h2>
-                <div className="h-24 sm:h-32 ">
+              <h2 className="xl:!text-5xl lg:!text-6xl md:!text-5xl sm:!text-1xl !text-6xl font-extrabold ">
+                <div className="mb-3 sm:text-2xl"> Hi! I am</div>
+              </h2>
+              <div className="h-24 sm:h-32 ">
                 <h2>
                   <TypeAnimation
                     sequence={[
@@ -76,6 +76,15 @@ export default function Home() {
                 >
                   {" "}
                   Contact
+                </Link>
+                
+              </div>
+              <div className="flex items-center self-start mt-2 lg:self-center ">
+              <Link
+                  href="https://buymeacoffee.com/callmewendy"
+                  className="flex items-center bg-dark text-light p-2.5 mt-5 px-10 rounded-lg text-lg border-white font-semibold hover:bg-white hover:text-black border-solid border-transparent hover:border-blackk border-2 dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light md:p-2 md:px-4 md:text-base"
+                >
+                  Buy me a coffee
                 </Link>
               </div>
             </div>

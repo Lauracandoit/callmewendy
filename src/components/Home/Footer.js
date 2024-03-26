@@ -78,7 +78,7 @@ const Footer = () => {
         </a>
       </div>
 
-      <div className="w-full mt-16 md:mt-24 relative font-medium border-t border-solid border-light py-6 px-8 flex flex-row md:flex-col items-center justify-between">
+      <div className="w-full mt-16 tablet:mt-24 relative font-medium border-t border-solid border-light py-6 px-8 flex flex-row tablet:flex-col items-center justify-between">
         <span>{new Date().getFullYear()} &copy; All Rights Reserved. </span>
 
         <Link

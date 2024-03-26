@@ -7,7 +7,7 @@ import Tag from "../Elements/Tag";
 
 const HomeCoverSection = ({ blogs }) => {
   const sortedBlogs = sortBlogs(blogs);
-  const blog = sortedBlogs[0];
+  const blog = sortedBlogs[2];
   const blogSlug = slug(blog._raw.flattenedPath);
   console.log({
     imagePath: blog.image.filePath,

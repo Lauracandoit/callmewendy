@@ -82,7 +82,7 @@ const Experience = () => {
             companyLink="https://www.msb.com.vn/"
             time="2021-Present"
             address="Sacramento, CA"
-            work=" As a team lead, I responsed for support our team member working on their tasks, as well as mine. I do QA, answer request support from team member and response for the engagement of the team, attendence of team members and also  Support for my manager to annouce the new update"
+            work=" As a customer support team lead for SPOTIFY, I responsed for support our team member working on their tasks, as well as mine. I do QA, answer request support from team member and response for the engagement of the team, attendence of team members and also  Support for my manager to annouce the new update"
           />
 
           <Details
@@ -90,7 +90,7 @@ const Experience = () => {
             company="MSB"
             companyLink="https://www.msb.com.vn/"
             time="2020-2021"
-            address="Mountain View, CA"
+            address="Ha Noi, Vietnam"
             work="Selling multiple bank service. Installing multiple Social Media channels to grow the reach and service of our branch. Providing customer support via phone, emails and sms. Make sure branch reaches the highest satisfaction from customer "
           />
 

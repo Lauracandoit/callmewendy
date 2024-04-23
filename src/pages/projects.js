@@ -140,7 +140,7 @@ const projects = () => {
           <div className="grid grid-cols-12 laptop:gap-20 gap-y-32 laptop:gap-x-10 tablet:gap-x-8 mobile:gap-y-24 sm:gap-x-0 ">
             <div className="laptop:col-span-12 tablet:col-span-12 mobile:col-span-12 sm:col-span-12">
               <FeatureProject
-                title=" Personal Web Application "
+                title="Personal Web Application "
                 img={logo}
                 summary="A personal web application using React, Tailwind CSS, and React Router. This project embodies my deep understanding and expertise in these technologies"
                 link="/"
@@ -150,7 +150,7 @@ const projects = () => {
             </div>
             <div className="laptop:col-span-6 tablet:col-span-6  mobile:col-span-12 sm:col-span-12">
               <Project
-                title=" Crypto Screener Application "
+                title="Duolingo Clone "
                 img={project1}
                 link="/"
                 github="/"
@@ -159,7 +159,7 @@ const projects = () => {
             </div>
             <div className="laptop:col-span-6 tablet:col-span-6 mobile:col-span-12 sm:col-span-12">
               <Project
-                title="  Crypto Screener Application "
+                title=" Spotify Clone "
                 img={project1}
                 link="/"
                 github="/"
@@ -169,7 +169,7 @@ const projects = () => {
 
             <div className="laptop:col-span-12 tablet:col-span-12 mobile:col-span-12 sm:col-span-12">
               <FeatureProject
-                title="  Crypto Screener Application "
+                title=" Weather Application "
                 img={project1}
                 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts.
                     It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your
@@ -181,7 +181,7 @@ const projects = () => {
             </div>
             <div className="laptop:col-span-6 tablet:col-span-6  mobile:col-span-12 sm:col-span-12">
               <Project
-                title="  Crypto Screener Application "
+                title="  Weather Application "
                 img={project1}
                 link="/"
                 github="/"
@@ -190,7 +190,7 @@ const projects = () => {
             </div>
             <div className="laptop:col-span-6 tablet:col-span-6  mobile:col-span-12 sm:col-span-12">
               <Project
-                title="  Crypto Screener Application "
+                title=" Weather Application"
                 img={project1}
                 link="/"
                 github="/"

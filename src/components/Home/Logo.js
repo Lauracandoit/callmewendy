@@ -23,7 +23,7 @@ const Logo = () => {
         }}
       >
         {" "}
-        Wendy{" "}
+        Laura{" "}
       </MotionLink>
     </div>
   );

@@ -2,7 +2,7 @@
 
 const { withContentlayer } = require("next-contentlayer");
 const nextConfig = {
-  basePath: "/callmewendy",
+  basePath: "/callmelaura",
   images: {
     unoptimized: true,
   },

@@ -65,12 +65,7 @@ const Education = () => {
             place="Massachusetts Institute Of Technology (MIT) "
             info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence"
           />
-          <Details
-            type="Bachelor Of Economics "
-            time="2016-2020 "
-            place=" National Economics University (NEU) "
-            info="Relevant courses included Marketing, Customer Satisfaction and Market Structor, Demand,   and Artificial Intelligence"
-          />
+         
         </ul>
       </div>
     </div>
